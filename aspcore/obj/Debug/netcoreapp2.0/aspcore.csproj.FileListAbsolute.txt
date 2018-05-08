@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/ASPNET/aspcore/bin/Debug/netcoreapp2.0/aspcore.deps.json
+/Users/gbernstein/Desktop/ASPNET/aspcore/bin/Debug/netcoreapp2.0/aspcore.runtimeconfig.json
+/Users/gbernstein/Desktop/ASPNET/aspcore/bin/Debug/netcoreapp2.0/aspcore.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/ASPNET/aspcore/bin/Debug/netcoreapp2.0/aspcore.dll
+/Users/gbernstein/Desktop/ASPNET/aspcore/bin/Debug/netcoreapp2.0/aspcore.pdb
+/Users/gbernstein/Desktop/ASPNET/aspcore/obj/Debug/netcoreapp2.0/aspcore.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/ASPNET/aspcore/obj/Debug/netcoreapp2.0/aspcore.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/ASPNET/aspcore/obj/Debug/netcoreapp2.0/aspcore.AssemblyInfo.cs
+/Users/gbernstein/Desktop/ASPNET/aspcore/obj/Debug/netcoreapp2.0/aspcore.dll
+/Users/gbernstein/Desktop/ASPNET/aspcore/obj/Debug/netcoreapp2.0/aspcore.pdb
