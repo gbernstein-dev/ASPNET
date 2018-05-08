@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/ASPNET/calling_card/bin/Debug/netcoreapp2.0/calling_card.deps.json
+/Users/gbernstein/Desktop/ASPNET/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.json
+/Users/gbernstein/Desktop/ASPNET/calling_card/bin/Debug/netcoreapp2.0/calling_card.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/ASPNET/calling_card/bin/Debug/netcoreapp2.0/calling_card.dll
+/Users/gbernstein/Desktop/ASPNET/calling_card/bin/Debug/netcoreapp2.0/calling_card.pdb
+/Users/gbernstein/Desktop/ASPNET/calling_card/obj/Debug/netcoreapp2.0/calling_card.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/ASPNET/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/ASPNET/calling_card/obj/Debug/netcoreapp2.0/calling_card.AssemblyInfo.cs
+/Users/gbernstein/Desktop/ASPNET/calling_card/obj/Debug/netcoreapp2.0/calling_card.dll
+/Users/gbernstein/Desktop/ASPNET/calling_card/obj/Debug/netcoreapp2.0/calling_card.pdb
