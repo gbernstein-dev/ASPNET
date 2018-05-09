@@ -1,0 +1,14 @@
+.main_content{
+  margin: 50px;
+  border: 2px solid black;
+  padding: 10px;
+}
+
+input[type=text]{
+  margin: 10px;
+}
+
+select{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
