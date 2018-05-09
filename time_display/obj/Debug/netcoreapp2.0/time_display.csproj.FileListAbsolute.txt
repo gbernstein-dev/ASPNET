@@ -1,0 +1,10 @@
+/Users/gbernstein/Desktop/ASPNET/time_display/obj/Debug/netcoreapp2.0/time_display.csproj.CoreCompileInputs.cache
+/Users/gbernstein/Desktop/ASPNET/time_display/obj/Debug/netcoreapp2.0/time_display.AssemblyInfoInputs.cache
+/Users/gbernstein/Desktop/ASPNET/time_display/obj/Debug/netcoreapp2.0/time_display.AssemblyInfo.cs
+/Users/gbernstein/Desktop/ASPNET/time_display/bin/Debug/netcoreapp2.0/time_display.deps.json
+/Users/gbernstein/Desktop/ASPNET/time_display/bin/Debug/netcoreapp2.0/time_display.runtimeconfig.json
+/Users/gbernstein/Desktop/ASPNET/time_display/bin/Debug/netcoreapp2.0/time_display.runtimeconfig.dev.json
+/Users/gbernstein/Desktop/ASPNET/time_display/bin/Debug/netcoreapp2.0/time_display.dll
+/Users/gbernstein/Desktop/ASPNET/time_display/bin/Debug/netcoreapp2.0/time_display.pdb
+/Users/gbernstein/Desktop/ASPNET/time_display/obj/Debug/netcoreapp2.0/time_display.dll
+/Users/gbernstein/Desktop/ASPNET/time_display/obj/Debug/netcoreapp2.0/time_display.pdb
