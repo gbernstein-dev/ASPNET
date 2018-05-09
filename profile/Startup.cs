@@ -23,6 +23,7 @@ namespace profile
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseStaticFiles();
             app.UseMvc();
 
         }
